@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SpinDash2305
-- 👀 I’m interested in stuff like Murder Drones
+- 👀 I’m interested in stuff like Murder Drones and Team Fortress 2
 - 🌱 I’m currently learning (or trying to learn) C#
 - 💞️ I’m looking to collaborate on basically stuff relating to unity or blender
 - 📫 How to reach me: discord. same username
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: among us
+- ⚡ Fun fact: I work on WAY to many projects
 
 <!---
 SpinDash2305/SpinDash2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
