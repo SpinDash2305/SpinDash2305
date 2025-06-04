@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SpinDash2305
+- 👋 Hi, I’m SP1N!
 - 👀 I’m interested in stuff like Murder Drones and Team Fortress 2
-- 🌱 I’m currently learning (or trying to learn) C#
-- 💞️ I’m looking to collaborate on basically stuff relating to unity or blender
+- 🌱 I’m currently learning (or trying to learn) C# but the autism refuses to let me focus on it lol
+- 💞️ I’m looking to collaborate on basically stuff relating to Unity or Blender
 - 📫 How to reach me: discord. same username
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I work on WAY to many projects
